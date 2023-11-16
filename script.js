@@ -21,7 +21,7 @@ function fizzbuzz(n) {
 		}
 	return result;
 }
-let n = 20;
+let n = 100;
  
 // Call the fizzBuzz function to get the result
 let result = fizzBuzz(n);
